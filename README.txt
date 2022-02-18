@@ -13,6 +13,4 @@ changes:
  - Lucas's green skin is replaced with his ultimate skin with Boney's face and brown shorts.
  - Young Link's white skin is pink.
 
-Maybe more changes in the future. Who knows!
-
 Questions? https://twitter.com/halofactorymoon
